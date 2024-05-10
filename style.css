@@ -1,0 +1,66 @@
+#madimione {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+    background: powderblue;
+}
+#bggrad {
+    background: 
+    linear-gradient(135deg, 
+    #DB4437, #F4B400, #0F9D58, #4285F4);
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+}
+footer {
+    bottom: 0;
+}
+.gl {
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 20px;
+    display: inline;
+}
+.mb {
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 20px;
+    display: inline;
+}
+#t1{
+    border-radius: 100px;
+    height: 50%;
+    margin-top: 10px;
+}
+#t2{
+    border-radius: 100px;
+    height: 50%;
+    margin-top: 10px;
+}
+#t3{
+    border-radius: 100px;
+    height: 50%;
+    margin-top: 10px;
+}
+#t4{
+    border-radius: 100px;
+    height: 50%;
+    margin-top: 10px;
+}
+#t5{
+    border-radius: 100px;
+    height: 50%;
+    margin-top: 10px;
+}
+#conclusion {
+    background: 
+    linear-gradient(135deg, 
+    #DB4437, #F4B400, #0F9D58, #4285F4);
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+}
